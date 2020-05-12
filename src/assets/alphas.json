@@ -1,0 +1,1257 @@
+[
+  {
+    "State": [
+      {
+        "Details": [
+          {
+            "Description": "Stakeholder group identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Key stakeholder groups represented",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Responsibilities defined",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Recognized"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Responsibilities agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Representitives authorized",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Collaboration approach agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Way of working supported & respected",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Represented"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Representitives assist the team",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Timely feedback and decisions provided",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Changes promptly communicated",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Involved"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Minimal expectations agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Rep's happy with their involvement",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Rep's input valued",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Team's input valued",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Priorities clear & perspectives balanced",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "In Agreement"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Stakeholder feedback provided",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System ready for deployment",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Satisfied for Deployment"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Feedback on system use available",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System meets expectations",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Satisfied in Use"
+      }
+    ],
+    "AlphaName": "Stakeholders"
+  },
+  {
+    "State": [
+      {
+        "Details": [
+          {
+            "Description": "Idea behind opportunity identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "At least one investing stakeholder interested",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Other stakeholders identified",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Identified"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Solution identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Stakeholder's needs established",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Problems and root causes identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Need for a solution confirmed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "At least one solution proposed",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Solution Needed"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Opportunity value quantified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Solution impact understood",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System value understood",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Success criteria clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Outcomes clear and quantified",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Value Established"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Solution outlined",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Solution possible without constraints",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Risks acceptable and manageable",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Solution profitable",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Reasons to develop solution understood",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Pursuit viable",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Viable"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Opportunity addressed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Solution worth deploying",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Stakeholders satisfied",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Addressed"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Solution accrues benefits",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "ROI acceptable",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Benefit Accrued"
+      }
+    ],
+    "AlphaName": "Opportunity"
+  },
+  {
+    "State": [
+      {
+        "Details": [
+          {
+            "Description": "Stakeholders agree system is to be produced",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Users identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Funding stakeholders identified",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Opportunity clear",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Conceived"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Development stakeholders identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System proposed agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System success clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Shared solution understanding exists",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Requirement's format agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Requirements management in place",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Prioritization scheme clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Constraints identified and considered",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Assumptions clear",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Bounded"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Requirements shared",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Requirements' orgin clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Rationale clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Conflicts addressed",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Essential characteristics clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Key usage scenarios explained",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Priorities clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Impact understood",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Team knows and agrees on what to deliver",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Coherent"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Acceptable solution described",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Change under control",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Value to be realized clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Clear how opportunity is addressed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Testable",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Acceptable"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Enough addressed to be acceptable",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Requirements and system match",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Value realized clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System worth making operational",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Addressed"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Stakeholders accept requirements",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "No hindering requirements",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Requirements fully satisfied",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Fulfilled"
+      }
+    ],
+    "AlphaName": "Requirements"
+  },
+  {
+    "State": [
+      {
+        "Details": [
+          {
+            "Description": "Architecture selection criteria agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "HW platforms identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Technologies selected",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "System boundary known",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Decisions on system organization made",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Buy, build, reuse decisions made",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Key technical risks agreed to",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Architecture Selected"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Key architectural characteristics demonstrated",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System exercised & performance measured",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Critical HW configurations demonstrated",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Critical interfaces demonstrated",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Integration with environment demonstrated",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Architecture accepted as fit for purpose",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Demonstratable"
+      },
+      {
+        "Details": [
+          {
+            "Description": "System can be operated",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System functionality tested",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System performance acceptable",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Defect levels acceptable",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System fully documented",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Release content known",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Added value clear",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Usable"
+      },
+      {
+        "Details": [
+          {
+            "Description": "User documentation available",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System accepted as fit for purpose",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Stakeholders want the system",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Operational support in place",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Ready"
+      },
+      {
+        "Details": [
+          {
+            "Description": "System available for use",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "System live",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Agreed service levels supported",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Operational"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Replaced or discontinued",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "No longer supported",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "No authorized users",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Updates stopped",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Retired"
+      }
+    ],
+    "AlphaName": "Software System"
+  },
+  {
+    "State": [
+      {
+        "Details": [
+          {
+            "Description": "Mission defined",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Constraints known and defined",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Growth mechanisms in place",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Composition defined",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Responsibilities outlined",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Required commitment level clear",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Required competencies identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Size determined",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Governance rules defined",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Leadership model selected",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Seeded"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Individual responsibilities accepted and aligned to competencies",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Enough members recruited",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Roles understood",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "How to work understood",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Member introduced",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Members accepting work",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "External collaborators identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Communication mechanisms defined",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Members commit to team",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Formed"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Works as one unit",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Communication open and honest",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Focused on mission",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Members know each other",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Collaborating"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Consistently meeting commitments",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Continuously adapting to change",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Addresses problems",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Rework and backtracking minimized",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Waste continuously eliminated",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Performing"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Responsibilities fulfilled",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Members available to other teams",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Mission concluded",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Adjourned"
+      }
+    ],
+    "AlphaName": "Team"
+  },
+  {
+    "State": [
+      {
+        "Details": [
+          {
+            "Description": "Required result clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Constraints clear",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Funding stakeholders known",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Initiator identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Accepting stakeholders known",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Source of funding clear",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Priority clear",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Initiated"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Commitment made",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Cost and effort estimated",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Resource availability understood",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Risk exposure understood",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Acceptance criteria established",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Sufficiently broken down to start",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Tasks identified and prioritized",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Credible plan in place",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "At least one team member ready",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Integration points defined",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Prepared"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Development started",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Progress monitored",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Definition of done in place",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Tasks being progressed",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Started"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Tasks being completed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Unplanned work under control",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Risks under control",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Estimated revised to reflect performance",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Progress measured",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Re-work under control",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Commitments consistently met",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Under Control"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Only admin tasks left",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Results achieved",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Resulting system accepted",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Concluded"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Lessons learned",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Metrics available",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Everything archived",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Budget reconciled and closed",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Team released",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "No outstanding, uncompleted tasks",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Closed"
+      }
+    ],
+    "AlphaName": "Work"
+  },
+  {
+    "State": [
+      {
+        "Details": [
+          {
+            "Description": "Team actively support principles",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Stakeholders agree with principles",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Tool needs agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Approach recommended",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Operational context understood",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Practice and tool constraints known",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Principles Established"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Key practices and tools selected",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Practices needed to start work agreed",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Non-negotiable practices and tools identified",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Gaps between available and needed way of working understood",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Gaps in capability understood",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Integrated way of working available",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Foundation Established"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Practices and tools in use",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Regularly inspected",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Adapted to context",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Supported by team",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Feedback mechanisms in place",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Practices & tools support collaboration",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "In Use"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Used by whole team",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Accessible to whole team",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Inspected and adapted by whole team",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "In Place"
+      },
+      {
+        "Details": [
+          {
+            "Description": "Predictable progresses being made",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Practices naturally applied",
+            "Previous": 1,
+            "Current": 1
+          },
+		  {
+            "Description": "Tools naturally support way of working",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Continually tuned",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Working Well"
+      },
+      {
+        "Details": [
+          {
+            "Description": "No longer in use",
+            "Previous": 1,
+            "Current": 1
+          },
+          {
+            "Description": "Lessons learned shared",
+            "Previous": 1,
+            "Current": 1
+          }
+        ],
+        "StateName": "Retired"
+      }
+    ],
+    "AlphaName": "Way of Working"
+  }
+]
